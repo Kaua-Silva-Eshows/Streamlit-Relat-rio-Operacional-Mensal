@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+mysql-connector-python
+datetime
+streamlit_echarts
+requests
+jwt
+pyjwt
